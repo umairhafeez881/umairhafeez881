@@ -1,22 +1,78 @@
-<image align="center" alt="coding" width="400" src="https://www.pngplay.com/wp-content/uploads/8/Rapid-Technology-PNG-HD-Quality.png">
-<h1 align="center">Hi 👋,   I'm Umair Hafeez</h1>
-<h3 align="center">A passionate PHP Laravel & Python Framework Expert Developer from USA</h3>
-<image align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h1 align="center">Hi 👋, I'm Umair Hafeez</h1>
+<h3 align="center">An innovative Full-Stack & AI Engineer blending the power of Python, Laravel, and Generative AI to build smart, scalable, real-world solutions.</h3>
 
-- 🌱 I’m currently learning *Machine Learning & AI*
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+- 🌳 **Software Engineer**
+
+- 🤔 Exploring new technologies and developing software solutions
+
+- 💼 Currently working on **Full Stack Development projects**
+
+- 🌱 Learning more about **AI, ML, and Full Stack Development**
+
+- ✍️ Competitive programming as a hobby
 
 - 👨‍💻 All of my projects are available at [https://github.com/umairhafeez881](https://github.com/umairhafeez881)
 
-- 💬 Ask me about *Python,Django,AWS,MYSQL* PHP, Laravel
+- 📫 How to reach me: **umairhafeez881@gmail.com**
 
-- 📫 How to reach me *umairhafeez881@gmail.com*
+- ⚡ Fun fact: *I am funny 😄*
 
-- ⚡ Fun fact *I am Funny*
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/umair-hafeez-829947224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saeed anwar" height="30" width="40" /></a>
+## 💻 Tech Stack
+
+### Programming Languages  
+![Python](https://img.shields.io/badge/Python-blue?logo=python) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go)
+
+### Frameworks  
+![Django](https://img.shields.io/badge/Django-092E20?logo=django) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs) ![React](https://img.shields.io/badge/React-61DAFB?logo=react) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap)
+
+### Databases  
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb)
+
+### ML/DL  
+![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas) ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly)
+
+### Cloud  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws) ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku) ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud) ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-306998?logo=python)
+
+### Tools  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger) ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello)
+
+### OS & IDEs  
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter) ![Pycharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm) ![Spyder](https://img.shields.io/badge/Spyder-FF0000?logo=spyder) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows)
+
+### Design  
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop)
+
+---
+
+## ✍️ Random Dev Quote
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umairhafeez881&show_icons=true&theme=tokyonight" alt="Umair's GitHub stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umairhafeez881&theme=tokyonight" alt="Umair's GitHub Streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+---
+
+## 🌐 Connect with me:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/umair-hafeez-829947224/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
+
+---
+
+
